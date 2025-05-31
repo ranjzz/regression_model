@@ -1,0 +1,28 @@
+
+Linear Regression Results:
+MSE: 1.1708619252196286
+R2 Score: 0.7512863069853879
+
+Polynomial Regression Results:
+MSE: 0.7085319996084276
+R2 Score: 0.7774775048612985
+
+Ridge Regression Results:
+MSE: 1.1735333720041272
+R2 Score: 0.7507188400781862
+
+Lasso Regression Results:
+MSE: 1.2102272739277389
+R2 Score: 0.742924346413337
+
+ElasticNet Regression Results:
+MSE: 1.283558406516287
+R2 Score: 0.727347397153824
+
+Decision Tree Regression Results:
+MSE: 1.7899312861447143
+R2 Score: 0.6197840148094833
+
+Random Forest Regression Results:
+MSE: 1.3563794859952574
+R2 Score: 0.7118787930285955
